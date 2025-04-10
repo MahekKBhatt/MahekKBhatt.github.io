@@ -22,11 +22,11 @@ author: Mahek Bhatt
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Scratch Game:
-    - Python Project:
-    - Video Anaylsis: 
-    - Excel Project: 
-    - Computer Graphics: 
+    - Scratch Game: "Scratch"
+    - Python Project: "Python"
+    - Video Anaylsis: "VideoAnalysis"
+    - Excel Project: "Excel"
+    - Computer Graphics: "Graphics" 
   
 
 ################
