@@ -22,9 +22,12 @@ author: Mahek Bhatt
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Scratch Game:
+    - Python Project:
+    - Video Anaylsis: 
+    - Excel Project: 
+    - Computer Graphics: 
+  
 
 ################
 # --- Logo --- #
