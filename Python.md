@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Python Project
-subtitle: Analyzing V&#x0307;O<sub>2</sub> 
+subtitle: Analyzing V̇O₂
 ---
 
 
