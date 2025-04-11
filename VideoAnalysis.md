@@ -12,4 +12,4 @@ In this project I analyized an axel jump in figure skating using Dartfish.
 - Comments regarding the different postions during the jump
 
 ## View a Gif of the Still Shots Below:
-![Axel Jump](https://github.com/MahekKBhatt/MahekKBhatt.github.io/blob/8bbcb432ee35e62c3f718068be4b222521818eb6/assets/img/FigureSkating_Montage.gif)
+<img src="/assets/img/FigureSkating_Montage.gif" alt="Axel Jump"/> 
