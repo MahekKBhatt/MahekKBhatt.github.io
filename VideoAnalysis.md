@@ -12,4 +12,4 @@ In this project I analyized an axel jump in figure skating using Dartfish.
 - Comments regarding the different postions during the jump
 
 ## View a Gif of the Still Shots Below:
-<img align="center" scr="assets/img/Figure Skating_Montage.gif" alt="Axel Jump" width="500" height="500"/>
+<img align="center" src="assets/img/Figure Skating_Montage.gif" alt="Axel Jump" width="500" height="500"/>
