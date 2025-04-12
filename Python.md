@@ -5,8 +5,13 @@ subtitle: Analyzing V̇O₂
 ---
 
 
-For this project.... 
+In this project I processed a set of V̇O₂ data in Kaggle, and developed a graph. 
 
-## Take a look
-You can view my work here ['knes381-demo2.ipynb'](https://github.com/MahekKBhatt/KNES381/blob/main/knes381-demo2.ipynb) 
+<img src="/assets/img/VO2Graph.png" alt="V̇O₂ Graph"/> 
 
+Graph Features:
+- Both FECO₂ and VCO₂ (y-axis) have been plotted over V̇O₂ (x-axis)
+- Lines for Gas Exchange threshold (GET) and Respiratory Compensation Point (RCP)
+
+## Take a Look at the Full Project:
+You can view my work here on Github ['knes381-demo2.ipynb'](https://github.com/MahekKBhatt/KNES381/blob/main/knes381-demo2.ipynb) 
