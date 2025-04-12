@@ -4,7 +4,7 @@ title: Video Analysis
 subtitle: The Biomechanical Breakdown of an Axel Jump
 ---
 
-In this project I analyized an axel jump in figure skating using Dartfish.
+In this project I analyized an axel jump in figure skating using [Dartfish](https://www.dartfish.com/).
 
 ## What is Included in the Analysis: 
 - Five still shots of different positions during the jump
