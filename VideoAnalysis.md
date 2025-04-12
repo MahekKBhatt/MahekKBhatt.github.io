@@ -13,3 +13,6 @@ In this project I analyized an axel jump in figure skating using Dartfish.
 
 ## View a Gif of the Still Shots Below:
 <img src="/assets/img/FigureSkating_Montage.gif" alt="Axel Jump"/> 
+
+## Use in Kinesiology:
+Video Analyses, like the one shown above, are extremely useful for coaches to help correct athletes' form and analyze ways to improve their performances!
