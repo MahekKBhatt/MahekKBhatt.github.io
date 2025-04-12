@@ -4,7 +4,7 @@ title: Using Scratch
 subtitle: Maze Game 
 ---
 
-For this project I made a maze game on Scratch! 
+For this project I made a maze game on [Scratch](https://scratch.mit.edu/)! 
 
 ## How to Play▶️: 
 - The **goal** of the game is to help the Octopus escape the maze by getting to the red exit arrow before the timer runs out
