@@ -4,7 +4,7 @@ title: Computer Graphics
 subtitle: Editing Images 
 ---
 
-In this project I used gimp to edit images. 
+In this project I used [Gimp](https://www.gimp.org/) to edit images. 
 
 ## Building Before and After:                                                                            
 <img src="/assets/img/colorcast1.jpg" alt="Building Before" width="300"/>  <img src="/assets/img/Building.png" alt="Building After" width="300"/>
