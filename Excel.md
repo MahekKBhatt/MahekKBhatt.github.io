@@ -17,5 +17,5 @@ Excel Functions/Tools Used in Both Data Sets:
 - Conditional Formatting
 - PivotTables to anaylze performance metrics 
 - Custom Formulas
-- Slicers for custom filterring PivotTable data
+- Slicers for custom filtering PivotTable data
 - Visual chart to showcase PivotTable data
