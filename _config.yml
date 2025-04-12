@@ -142,14 +142,14 @@ navbar-var-length: false
 
 page-col: "#F4F6F8"
 text-col: "#3A3F47"
-link-col: "#1F51FF"
+link-col: "#5D8AA8"
 hover-col: "#3A6A85" 
 navbar-col: "#E1E8ED"
 navbar-text-col: "#3A3F47"
 navbar-border-col: "#C5D1A8"
 footer-col: "#E1E8ED"
 footer-text-col: "#8C9B9F"
-footer-link-col: "#1F51FF"
+footer-link-col: "#5D8AA8"
 footer-hover-col: "#3A6A85"
 
 
